@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jithinjosejacob/cypress-github#readme",
   "dependencies": {
-    "cypress": "^5.3.0"
+    "cypress": "^8.0.0"
   }
 }
